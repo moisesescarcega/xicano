@@ -23,7 +23,7 @@
 					
 </script>
 
-<div class="w-screen h-screen lg:h-[48rem] bg-[url('vista_interior_pb_rio_sur.jpg')] bg-cover bg-fixed bg-center grid content-center space-y-4">
+<div class="w-screen h-screen lg:h-[48rem] bg-cover bg-fixed bg-center grid content-center space-y-4" style="background-image: url('imagenprincipal.jpg');">
 	<h1 class="text-center drop-shadow-sm p-6" style="font-family: 'Oleo Script'; font-size:6rem">Xicano</h1>
 	<h3 class="h3 text-center drop-shadow-sm">Experiencia gastronómica en la frontera</h3>
 	<a href="#descripcion" class="btn btn-lg variant-glass-primary w-60 h4 place-self-center">Conoce el proyecto</a>
