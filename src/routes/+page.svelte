@@ -78,7 +78,7 @@
 		</div>
 	</section>
 
-	<section class="w-full variant-soft-primary bg-[url('slide1.jpg')] bg-cover bg-fixed bg-center grid">
+	<section class="w-full variant-soft-primary bg-cover bg-fixed bg-center grid" style="background-image: url('slide1.jpg');">
 		<div class="grid grid-rows-1 gap-6 mb-12 py-8">
 			<div class="text-center col-span-1 place-self-center w-full">
 				<h1 class="text-center text-6xl drop-shadow-sm p-6" style="font-family: 'Oleo Script';">Un nuevo hito en el corazón de la frontera</h1>
